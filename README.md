@@ -1,1 +1,4 @@
 # mtrobot_ros
+使用roscore開啟主節點
+使用roslaunch myrobot_description gazebo.launch開啟gazebo的模擬
+使用rqt_image_view開啟相機畫面
